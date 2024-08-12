@@ -1,7 +1,7 @@
 .mdl-menu[data-v-7646acac] {
     position: fixed;
     z-index: 10;
-    bottom: 0;
+    bottom: 0; left: 0;
     width: 100%;
     display: flex;
     background: #fff;
